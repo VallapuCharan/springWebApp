@@ -8,6 +8,6 @@ public class HomeController {
 
     @RequestMapping("/")
     public String greet(){
-        return "This is my first home page - Git Change 2";
+        return "This is my first home page - Git Change 3";
     }
 }
