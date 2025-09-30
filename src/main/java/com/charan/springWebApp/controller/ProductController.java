@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+// This is a product controller
 @RestController
 public class ProductController {
 
